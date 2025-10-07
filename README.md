@@ -11,6 +11,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nexis-AI/Nex-T1-Research/refs/heads/main/nex-t1-banner.png" alt="Nex-T1 Banner" width="100%">
+</p>
+
+---
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
